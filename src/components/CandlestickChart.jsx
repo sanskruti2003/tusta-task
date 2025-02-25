@@ -250,7 +250,7 @@ const CandlestickChart = ({ symbol = "BTCUSDT", interval = "1m" }) => {
       alert('Trendline updated.');
     } catch (error) {
       console.error('Error updating trendline:', error);
-      alert('Failed to update trendline. Please try again.');
+      alert('Failed to update trendline. The Server is not running....');
     }
   };
 
