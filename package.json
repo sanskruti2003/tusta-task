@@ -12,6 +12,7 @@
   "dependencies": {
     "@amcharts/amcharts5": "^5.8.2",
     "axios": "^1.7.9",
+    "html2canvas": "^1.4.1",
     "konva": "^9.3.6",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
